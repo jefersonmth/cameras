@@ -1,10 +1,10 @@
 {
-  "type": "FeatureCollection",
+   "type": "FeatureCollection",
   "features": [
     {
-      "type": "RS-536",
+      "type": "Feature",
       "properties": {
-        "name": "RS-536",
+        "name": "TESTE RS",
         "address": "O'Connell Bridge, Dublin",
         "ownership": "government",
         "url": "http://www.dublincity.ie/dublintraffic/site16Camera6.jpg",
@@ -13,8 +13,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -28.532888414834233, 
-          -54.54318739467463
+          -28.53266477451384,
+          -54.54315852230756
+
         ]
       }
     },
