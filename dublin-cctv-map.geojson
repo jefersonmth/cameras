@@ -70,11 +70,6 @@
       }
     },
 
-
-
-
-
-
  {
       "type": "Feature",
       "properties": {
@@ -121,7 +116,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Nome": "MODELO TESTE",
+        "Nome": "CÂMERA HOSPITAL",
         "Patrimônio": "XXX",
         "Modelo": "XXX",
         "IP": "XXX"
@@ -129,8 +124,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.59703677658355,
-          -30.907158535253075
+          -54.55073889457641,
+          -28.554400066938925
 
 
         ]
