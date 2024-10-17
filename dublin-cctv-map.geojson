@@ -18,7 +18,27 @@
         ]
       }
     },
-    {
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "RACK PARA EQUIPAMENTOS",
+        "patrimônio": "102385",
+        "Modelo": "XXX",
+        "IP": "XXX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.543187685065035,
+          -28.532844122235137
+
+        ]
+      }
+    },
+
+
+
+{
       "type": "Feature",
       "properties": {
         "name": "South Dublin County Council Traffic Cameras - Ballycullen/St.Colmcilles",
