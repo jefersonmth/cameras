@@ -2,9 +2,9 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
+      "type": "RS-536",
       "properties": {
-        "name": "Dublin City Council Traffic Cameras - O'Connell Bridge",
+        "name": "RS-536",
         "address": "O'Connell Bridge, Dublin",
         "ownership": "government",
         "url": "http://www.dublincity.ie/dublintraffic/site16Camera6.jpg",
@@ -13,8 +13,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.258999109268188,
-          53.34707848312472
+          -28.532888414834233, 
+          -54.54318739467463
         ]
       }
     },
