@@ -4,9 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "TESTE RS",
-        "address": "O'Connell Bridge, Dublin",
-        "ownership": "government",
+        "name": "CÂMERA LPR - RS-536",
+        "patrimônio": "XXXX",
+        "Modelo": "XXX",
+        "IP": "XXX",
         "url": "http://www.dublincity.ie/dublintraffic/site16Camera6.jpg",
         "marker-size": "small"
       },
