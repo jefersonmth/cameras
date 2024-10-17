@@ -102,13 +102,28 @@
       }
     },
 
-
+{
+      "type": "Feature",
+      "properties": {
+        "Nome": "SPEED DOME TURISMO",
+        "Patrimônio": "XXXX",
+        "Modelo": "XXX",
+        "IP": "10.10.0.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.55014818941121,
+         -28.546969979263128 
+        ]
+      }
+    },
 {
       "type": "Feature",
       "properties": {
         "Nome": "SPEED DOME PREFEITURA",
-        "Patrimônio": "102387",
-        "Modelo": "XXX",
+        "Patrimônio": "XXX",
+        "Modelo": "VIP-5220-SD-IR",
         "IP": "10.10.0.7"
       },
       "geometry": {
