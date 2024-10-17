@@ -67,7 +67,24 @@
       }
     },
 
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "RACK PARA EQUIPAMENTOS - CEMITÉRIO",
+        "patrimônio": "102386",
+        "Modelo": "XXX",
+        "IP": "XXX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -54.556838171782296,
+         -28.557191309651348 
 
+
+        ]
+      }
+    },
 
 
 
