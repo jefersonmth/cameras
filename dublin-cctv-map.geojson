@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "CÂMERA LPR - RS-536",
-        "Patrimônio:" XXXXX",
+        "Patrimônio:" "XXXXX",
         "Modelo": "XXXX",
         "IP": "10.10.0.X",
         "marker-size": "small"
