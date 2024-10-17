@@ -4,8 +4,8 @@
 {
       "type": "Feature",
       "properties": {
-        "name": "CÂMERA LPR - RS-536 - ENTRADA/SAÍDA",
-        "patrimônio": "XX02",
+        "Nome": "CÂMERA LPR - RS-536 - ENTRADA/SAÍDA",
+        "Patrimônio": "XX02",
         "Modelo": "XXX",
         "IP": "XXX"
       },
@@ -20,8 +20,8 @@
  {
       "type": "Feature",
       "properties": {
-        "name": "RACK PARA EQUIPAMENTOS - RS-536",
-        "patrimônio": "102385",
+        "Nome": "RACK PARA EQUIPAMENTOS - RS-536",
+        "Patrimônio": "102385",
         "Modelo": "XXX",
         "IP": "XXX"
       },
@@ -37,8 +37,8 @@
  {
       "type": "Feature",
       "properties": {
-        "name": "CÂMERA LPR - CEMITERIO - ENTRADA/SAÍDA",
-        "patrimônio": "XXXX",
+        "Nome": "CÂMERA LPR - CEMITERIO - ENTRADA/SAÍDA",
+        "Patrimônio": "XXXX",
         "Modelo": "XXX",
         "IP": "XXX"
       },
@@ -54,8 +54,8 @@
  {
       "type": "Feature",
       "properties": {
-        "name": "RACK PARA EQUIPAMENTOS - CEMITÉRIO",
-        "patrimônio": "102386",
+        "Nome": "RACK PARA EQUIPAMENTOS - CEMITÉRIO",
+        "Patrimônio": "102386",
         "Modelo": "XXX",
         "IP": "XXX"
       },
@@ -78,8 +78,8 @@
  {
       "type": "Feature",
       "properties": {
-        "name": "CÂMERA LPR - MATO GRANDE - ENTRADA/SAÍDA",
-        "patrimônio": "XXXX",
+        "Nome": "CÂMERA LPR - MATO GRANDE - ENTRADA/SAÍDA",
+        "Patrimônio": "XXXX",
         "Modelo": "XXX",
         "IP": "XXX"
       },
@@ -97,8 +97,8 @@
  {
       "type": "Feature",
       "properties": {
-        "name": "RACK PARA EQUIPAMENTOS - MATO GRANDE",
-        "patrimônio": "102387",
+        "Nome": "RACK PARA EQUIPAMENTOS - MATO GRANDE",
+        "Patrimônio": "102387",
         "Modelo": "XXX",
         "IP": "XXX"
       },
@@ -121,8 +121,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "MODELO TESTE",
-        "patrimônio": "XXX",
+        "Nome": "MODELO TESTE",
+        "Patrimônio": "XXX",
         "Modelo": "XXX",
         "IP": "XXX"
       },
