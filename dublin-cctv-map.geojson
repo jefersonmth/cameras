@@ -37,16 +37,16 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dawson St / Stephens Green",
-        "address": "Dawson St, Dublin 1",
-        "ownership": "government",
-        "marker-size": "small"
+        "name": "MODELO TESTE",
+        "patrimônio": "XXX",
+        "Modelo": "XXX",
+        "IP": "XXX"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.258763074874878,
-          53.33949778536761
+          -54.54327753189292,
+          -28.532890381763142
         ]
       }
     }
