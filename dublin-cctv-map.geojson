@@ -7,8 +7,7 @@
         "name": "CÂMERA LPR - RS-536",
         "patrimônio": "XXXX",
         "Modelo": "XXX",
-        "IP": "XXX",
-        "marker-size": "small"
+        "IP": "XXX"
       },
       "geometry": {
         "type": "Point",
