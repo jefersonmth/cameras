@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CÂMERA LPR - RS-536",
+        "name": "CÂMERA LPR - RS-536 - ENTRADA",
         "patrimônio": "XX01",
         "Modelo": "XXX",
         "IP": "XXX"
@@ -20,7 +20,7 @@
 {
       "type": "Feature",
       "properties": {
-        "name": "CÂMERA LPR - RS-536",
+        "name": "CÂMERA LPR - RS-536 - SAÍDA",
         "patrimônio": "XX02",
         "Modelo": "XXX",
         "IP": "XXX"
@@ -36,7 +36,7 @@
  {
       "type": "Feature",
       "properties": {
-        "name": "RACK PARA EQUIPAMENTOS - RS-536 - SAÍDA",
+        "name": "RACK PARA EQUIPAMENTOS - RS-536",
         "patrimônio": "102385",
         "Modelo": "XXX",
         "IP": "XXX"
@@ -50,12 +50,10 @@
       }
     },
 
-
-
  {
       "type": "Feature",
       "properties": {
-        "name": "CÂMERA LPR - RS-536 - ENTRADA",
+        "name": "CÂMERA LPR - CEMITERIO - ENTRADA",
         "patrimônio": "XXXX",
         "Modelo": "XXX",
         "IP": "XXX"
@@ -63,24 +61,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-           -54.54316018514438,
-         -28.532955183721672 
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "name": "RACK PARA EQUIPAMENTOS - RS-536 - ENTRADA",
-        "patrimônio": "102386",
-        "Modelo": "XXX",
-        "IP": "XXX"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.543215170480565,
-          -28.532955183755178
+           -54.5568595486657,
+         -28.557252558405768 
         ]
       }
     },
