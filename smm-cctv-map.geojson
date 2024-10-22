@@ -37,10 +37,10 @@
  {
       "type": "Feature",
       "properties": {
-        "Nome": "CÂMERA LPR - CEMITERIO - ENTRADA/SAÍDA",
+        "Nome": "CÂMERAS LPR - SAÍDA CAMPESTRE",
         "Patrimônio": "102431",
         "Modelo": "XXX",
-        "IP": ""
+        "IP": "10.10.0.28; "
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +54,7 @@
  {
       "type": "Feature",
       "properties": {
-        "Nome": "RACK PARA EQUIPAMENTOS - CEMITÉRIO",
+        "Nome": "RACK PARA EQUIPAMENTOS - SAÍDA CAMPESTRE",
         "Patrimônio": "10238",
         "Modelo": "XXX",
         "IP": "XXX"
@@ -106,7 +106,7 @@
       "properties": {
         "Nome": "SERVIDOR DIGIFORT - BRIGADA MILITAR",
         "Patrimônio": "102388",
-        "Modelo": "XXX",
+        "Modelo": "NORION - 1T-V ESSENTIAL",
         "IP": "10.10.0.31"
       },
       "geometry": {
