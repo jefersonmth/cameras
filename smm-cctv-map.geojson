@@ -4,8 +4,8 @@
 {
       "type": "Feature",
       "properties": {
-        "Nome": "CÂMERA LPR - RS-536 - ENTRADA/SAÍDA",
-        "Patrimônio": "XX02",
+        "Nome": "CÂMERAS LPR - RS-536",
+        "Patrimônio": "102384, ",
         "Modelo": "XXX",
         "IP": "XXX"
       },
@@ -21,7 +21,7 @@
       "type": "Feature",
       "properties": {
         "Nome": "RACK PARA EQUIPAMENTOS - RS-536",
-        "Patrimônio": "10238",
+        "Patrimônio": "102387",
         "Modelo": "XXX",
         "IP": "XXX"
       },
