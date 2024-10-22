@@ -21,7 +21,7 @@
       "type": "Feature",
       "properties": {
         "Nome": "RACK PARA EQUIPAMENTOS - RS-536",
-        "Patrimônio": "102385",
+        "Patrimônio": "10238",
         "Modelo": "XXX",
         "IP": "XXX"
       },
@@ -55,7 +55,7 @@
       "type": "Feature",
       "properties": {
         "Nome": "RACK PARA EQUIPAMENTOS - CEMITÉRIO",
-        "Patrimônio": "102386",
+        "Patrimônio": "10238",
         "Modelo": "XXX",
         "IP": "XXX"
       },
@@ -72,9 +72,9 @@
       "type": "Feature",
       "properties": {
         "Nome": "CÂMERA LPR - MATO GRANDE - ENTRADA/SAÍDA",
-        "Patrimônio": "XXXX",
-        "Modelo": "XXX",
-        "IP": "XXX"
+        "Patrimônio": "102430",
+        "Modelo": "XXXX",
+        "IP": "10.10.0.27"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "Nome": "RACK PARA EQUIPAMENTOS - MATO GRANDE",
-        "Patrimônio": "102387",
+        "Patrimônio": "102385",
         "Modelo": "XXX",
         "IP": "XXX"
       },
