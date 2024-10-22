@@ -122,8 +122,8 @@
       "properties": {
         "Nome": "COMPUTADOR E MONITOR - BRIGADA MILITAR",
         "Patrimônio": "PC:102447, MONITOR:102446",
-        "Modelo": "XXX",
-        "IP": "10.10.0.9"
+        "Modelo": " DELL CORE I5",
+        "IP": ""
       },
       "geometry": {
         "type": "Point",
