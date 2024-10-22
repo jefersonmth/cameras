@@ -38,9 +38,9 @@
       "type": "Feature",
       "properties": {
         "Nome": "CÂMERA LPR - CEMITERIO - ENTRADA/SAÍDA",
-        "Patrimônio": "XXXX",
+        "Patrimônio": "102431",
         "Modelo": "XXX",
-        "IP": "XXX"
+        "IP": ""
       },
       "geometry": {
         "type": "Point",
