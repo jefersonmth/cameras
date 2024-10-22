@@ -101,7 +101,22 @@
         ]
       }
     },
-
+{
+      "type": "Feature",
+      "properties": {
+        "Nome": "COMPUTADOR E MONITOR - BRIGADA MILITAR",
+        "Patrimônio": "PC:102447, MONITOR:102446",
+        "Modelo": "XXX",
+        "IP": "10.10.0.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -54.5511788921483,
+         -28.547295183634724
+        ]
+      }
+    },
 {
       "type": "Feature",
       "properties": {
