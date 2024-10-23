@@ -6,7 +6,7 @@
       "properties": {
         "Nome": "CÂMERAS LPR - RS-536",
         "Patrimônio": "102384, ",
-        "Modelo": "XXX",
+        "Modelo": "VIP-94180-LPR-IA-FT",
         "IP": "XXX"
       },
       "geometry": {
@@ -21,9 +21,7 @@
       "type": "Feature",
       "properties": {
         "Nome": "RACK PARA EQUIPAMENTOS - RS-536",
-        "Patrimônio": "102387",
-        "Modelo": "XXX",
-        "IP": "XXX"
+        "Patrimônio": "102387"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +37,7 @@
       "properties": {
         "Nome": "CÂMERAS LPR - SAÍDA CAMPESTRE",
         "Patrimônio": "102431",
-        "Modelo": "XXX",
+        "Modelo": "VIP-94180-LPR-IA-FT",
         "IP": "10.10.0.28; "
       },
       "geometry": {
@@ -55,9 +53,7 @@
       "type": "Feature",
       "properties": {
         "Nome": "RACK PARA EQUIPAMENTOS - SAÍDA CAMPESTRE",
-        "Patrimônio": "10238",
-        "Modelo": "XXX",
-        "IP": "XXX"
+        "Patrimônio": "10238"
       },
       "geometry": {
         "type": "Point",
@@ -73,7 +69,7 @@
       "properties": {
         "Nome": "CÂMERA LPR - MATO GRANDE - ENTRADA/SAÍDA",
         "Patrimônio": "102430",
-        "Modelo": "XXXX",
+        "Modelo": "VIP-94180-LPR-IA-FT",
         "IP": "10.10.0.27"
       },
       "geometry": {
@@ -89,9 +85,7 @@
       "type": "Feature",
       "properties": {
         "Nome": "RACK PARA EQUIPAMENTOS - MATO GRANDE",
-        "Patrimônio": "102385",
-        "Modelo": "XXX",
-        "IP": "XXX"
+        "Patrimônio": "102385"
       },
       "geometry": {
         "type": "Point",
@@ -166,8 +160,6 @@
       }
     },
 
-
-
     {
       "type": "Feature",
       "properties": {
@@ -181,8 +173,6 @@
         "coordinates": [
           -54.55073889457641,
           -28.554400066938925
-
-
         ]
       }
     }
