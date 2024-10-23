@@ -67,7 +67,7 @@
  {
       "type": "Feature",
       "properties": {
-        "Nome": "CÂMERA LPR - MATO GRANDE - ENTRADA/SAÍDA",
+        "Nome": "CÂMERAS LPR - MATO GRANDE",
         "Patrimônio": "102430",
         "Modelo": "VIP-94180-LPR-IA-FT",
         "IP": "10.10.0.27"
