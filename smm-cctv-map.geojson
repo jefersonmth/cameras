@@ -5,9 +5,9 @@
       "type": "Feature",
       "properties": {
         "Nome": "CÂMERAS LPR - RS-536",
-        "Patrimônio": "102384, ",
+        "Patrimônio": "102383, 102384",
         "Modelo": "VIP-94180-LPR-IA-FT",
-        "IP": "XXX"
+        "IP": "10.10.0.25; 10.10.0.26"
       },
       "geometry": {
         "type": "Point",
